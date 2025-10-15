@@ -1,0 +1,16 @@
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\MudBlazerCRUD.csproj.AssemblyReference.cache
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\MudBlazerCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\MudBlazerCRUD.AssemblyInfoInputs.cache
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\MudBlazerCRUD.AssemblyInfo.cs
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\MudBlazerCRUD.csproj.CoreCompileInputs.cache
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\MudBlazerCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\MudBlazerCRUD.RazorComponent.input.cache
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\MudBlazerCRUD.RazorComponent.output.cache
