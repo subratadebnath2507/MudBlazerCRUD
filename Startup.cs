@@ -31,10 +31,10 @@ namespace MudBlazerCRUD
         {
             services.AddRazorPages();
             services.AddServerSideBlazor();
-            services.AddSingleton<WeatherForecastService>();
             services.AddMudServices();
             services.AddControllersWithViews(); 
-            services.AddDbContext<ApplicationDbContext>(dbContextOption => dbContextOption.UseSqlServer(Configuration.GetConnectionString("DefaultConnection"));
+            services.AddDbContext<ApplicationDbContext>(dbContextOption => dbContextOption.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
+            services.AddScoped<ICustomerService, CustomerService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

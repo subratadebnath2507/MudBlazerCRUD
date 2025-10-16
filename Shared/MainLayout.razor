@@ -7,10 +7,10 @@
 
     <div class="main">
         <div class="top-row px-4">
-            <a href="https://docs.microsoft.com/aspnet/" target="_blank">About</a>
+            
         </div>
 
-        <div class="content px-4">
+        <div class="content px-4" style="padding-bottom:64px;">
             @Body
         </div>
     </div>
@@ -18,3 +18,9 @@
 
 <MudThemeProvider/>
 <MudSnackbarProvider/>
+
+<footer style="width:100%; text-align:center; padding:4px 0; background: linear-gradient(90deg, #1976d2 0%, #42a5f5 100%); color: #fff; font-weight:500; position:fixed; left:0; bottom:0; z-index:100; font-size:0.95em;">
+    <span style="margin-right:6px;">&#169; @DateTime.Now.Year Made by</span>
+    <span style="color:#ff1744; font-size:1em; vertical-align:middle; margin-right:3px;">&#10084;&#65039;</span>
+    Subrata Debnath
+</footer>

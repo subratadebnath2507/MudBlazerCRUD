@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MudBlazerCRUD")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+087c2d534df49803987629255d52ed4fcec54421")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+327af5fa6a1ba9849249a2a61149f0f6b72e2493")]
 [assembly: System.Reflection.AssemblyProductAttribute("MudBlazerCRUD")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MudBlazerCRUD")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
