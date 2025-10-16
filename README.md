@@ -81,7 +81,7 @@ Or use Visual Studio to start debugging.
 
 ## Author
 
-Made with &#10084;&#65039; by Subrata Debnath &copy; [@DateTime.Now.Year]
+Made with &#10084;&#65039; by Subrata Debnath &copy; [Current Year]
 
 
 

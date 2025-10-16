@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Practice\\MudBlazerCRUD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|c:\\practice\\mudblazercrud\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|c:\\practice\\mudblazercrud\\pages\\customerinfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|solutionrelative:pages\\customerinfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Practice\\MudBlazerCRUD\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Practice\\MudBlazerCRUD\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAEMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-10-16T10:24:03.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CustomerInfo.razor",
               "DocumentMoniker": "C:\\Practice\\MudBlazerCRUD\\Pages\\CustomerInfo.razor",
               "RelativeDocumentMoniker": "Pages\\CustomerInfo.razor",
@@ -38,12 +55,11 @@
               "RelativeToolTip": "Pages\\CustomerInfo.razor",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-10-16T08:30:54.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T08:30:54.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Customer.cs",
               "DocumentMoniker": "C:\\Practice\\MudBlazerCRUD\\Data\\Customer.cs",
               "RelativeDocumentMoniker": "Data\\Customer.cs",
@@ -51,12 +67,11 @@
               "RelativeToolTip": "Data\\Customer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T13:52:04.433Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-15T13:52:04.433Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "CustomerService.cs",
               "DocumentMoniker": "C:\\Practice\\MudBlazerCRUD\\Data\\CustomerService.cs",
               "RelativeDocumentMoniker": "Data\\CustomerService.cs",
@@ -64,8 +79,7 @@
               "RelativeToolTip": "Data\\CustomerService.cs",
               "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T08:30:26.128Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-16T08:30:26.128Z"
             }
           ]
         }
