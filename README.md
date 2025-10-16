@@ -27,11 +27,11 @@ This project demonstrates how to manage customer information with a modern Blazo
 
 ## Project Structure
 
-- `Pages/CustomerInfo.razor` – Main UI for customer CRUD operations
-- `Data/Customer.cs` – Customer entity model with validation attributes
-- `Data/CustomerService.cs` – Service for database operations (CRUD)
-- `appsettings.json` – Connection string and configuration
-- `Shared/MainLayout.razor` – Layout with sidebar navigation and footer
+- `Pages/CustomerInfo.razor` â€“ Main UI for customer CRUD operations
+- `Data/Customer.cs` â€“ Customer entity model with validation attributes
+- `Data/CustomerService.cs` â€“ Service for database operations (CRUD)
+- `appsettings.json` â€“ Connection string and configuration
+- `Shared/MainLayout.razor` â€“ Layout with sidebar navigation and footer
 
 ---
 
@@ -65,30 +65,23 @@ This project demonstrates how to manage customer information with a modern Blazo
 
 1. **Clone the repository:**
 
-````````
 2. **Configure the database:**
 - Update the `DefaultConnection` string in `appsettings.json` if needed.
 
 3. **Apply migrations:**
 
-````````
 4. **Run the application:**
 
-````````
 Or use Visual Studio to start debugging.
-
----
 
 ## Screenshots
 
 > Add screenshots of the UI here for better visualization.
 
----
 
 ## Author
 
 Made with &#10084;&#65039; by Subrata Debnath &copy; [@DateTime.Now.Year]
 
----
 
 
