@@ -76,12 +76,13 @@ Or use Visual Studio to start debugging.
 
 ## Screenshots
 
-> Add screenshots of the UI here for better visualization.
-
+<img width="1366" height="608" alt="image" src="https://github.com/user-attachments/assets/667b9d39-eb34-4516-ae99-7dfd8f73153e" />
+<img width="1366" height="466" alt="image" src="https://github.com/user-attachments/assets/2767368b-2efd-41d0-9c52-757b4087bd8e" />
+<img width="1343" height="538" alt="image" src="https://github.com/user-attachments/assets/3b8b1c5c-6b20-4378-a731-0e91c44d17c9" />
 
 ## Author
 
-Made with &#10084;&#65039; by Subrata Debnath &copy; {{year}}
+Made with &#10084;&#65039; by Subrata Debnath &copy; 2025
 
 
 
