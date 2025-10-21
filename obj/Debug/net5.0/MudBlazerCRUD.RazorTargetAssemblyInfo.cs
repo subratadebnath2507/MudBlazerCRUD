@@ -17,7 +17,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyProductAttribute("MudBlazerCRUD")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+327af5fa6a1ba9849249a2a61149f0f6b72e2493")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+71721961d534698bb4967a35a40ef1f526bedadb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MudBlazerCRUD.Views")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 

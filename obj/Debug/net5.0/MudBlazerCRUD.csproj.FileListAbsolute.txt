@@ -98,3 +98,5 @@ C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\MudBlazerCRUD.genruntimeconfig.cache
 C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\ref\MudBlazerCRUD.dll
 C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\RazorDeclaration\Pages\CustomerInfo.razor.g.cs
 C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\Razor\Pages\CustomerInfo.razor.g.cs
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\RazorDeclaration\Shared\Footer.razor.g.cs
+C:\Practice\MudBlazerCRUD\obj\Debug\net5.0\Razor\Shared\Footer.razor.g.cs

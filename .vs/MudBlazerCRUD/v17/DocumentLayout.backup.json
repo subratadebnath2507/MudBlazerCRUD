@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Practice\\MudBlazerCRUD\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|c:\\practice\\mudblazercrud\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|c:\\practice\\mudblazercrud\\shared\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|solutionrelative:shared\\footer.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|c:\\practice\\mudblazercrud\\shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|solutionrelative:shared\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|c:\\practice\\mudblazercrud\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|solutionrelative:pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|c:\\practice\\mudblazercrud\\pages\\customerinfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|solutionrelative:pages\\customerinfo.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|c:\\practice\\mudblazercrud\\data\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|solutionrelative:data\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|c:\\practice\\mudblazercrud\\data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|solutionrelative:data\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|c:\\practice\\mudblazercrud\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DFB3637-BF25-4633-9540-69BC306BD607}|MudBlazerCRUD.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,40 +42,80 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Footer.razor",
+              "DocumentMoniker": "C:\\Practice\\MudBlazerCRUD\\Shared\\Footer.razor",
+              "RelativeDocumentMoniker": "Shared\\Footer.razor",
+              "ToolTip": "C:\\Practice\\MudBlazerCRUD\\Shared\\Footer.razor",
+              "RelativeToolTip": "Shared\\Footer.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T06:33:43.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Practice\\MudBlazerCRUD\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "C:\\Practice\\MudBlazerCRUD\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T06:33:03.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Practice\\MudBlazerCRUD\\Shared\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Shared\\NavMenu.razor",
+              "ToolTip": "C:\\Practice\\MudBlazerCRUD\\Shared\\NavMenu.razor",
+              "RelativeToolTip": "Shared\\NavMenu.razor",
+              "ViewState": "AgIAABEAAAAAAAAAAAAowB4AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:31:13.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CustomerInfo.razor",
               "DocumentMoniker": "C:\\Practice\\MudBlazerCRUD\\Pages\\CustomerInfo.razor",
               "RelativeDocumentMoniker": "Pages\\CustomerInfo.razor",
               "ToolTip": "C:\\Practice\\MudBlazerCRUD\\Pages\\CustomerInfo.razor",
               "RelativeToolTip": "Pages\\CustomerInfo.razor",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-16T08:30:54.982Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Customer.cs",
-              "DocumentMoniker": "C:\\Practice\\MudBlazerCRUD\\Data\\Customer.cs",
-              "RelativeDocumentMoniker": "Data\\Customer.cs",
-              "ToolTip": "C:\\Practice\\MudBlazerCRUD\\Data\\Customer.cs",
-              "RelativeToolTip": "Data\\Customer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-15T13:52:04.433Z"
+              "DocumentIndex": 3,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Practice\\MudBlazerCRUD\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Pages\\Index.razor",
+              "ToolTip": "C:\\Practice\\MudBlazerCRUD\\Pages\\Index.razor",
+              "RelativeToolTip": "Pages\\Index.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-20T09:31:03.028Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CustomerService.cs",
-              "DocumentMoniker": "C:\\Practice\\MudBlazerCRUD\\Data\\CustomerService.cs",
-              "RelativeDocumentMoniker": "Data\\CustomerService.cs",
-              "ToolTip": "C:\\Practice\\MudBlazerCRUD\\Data\\CustomerService.cs",
-              "RelativeToolTip": "Data\\CustomerService.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwCgAAAANAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Practice\\MudBlazerCRUD\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Practice\\MudBlazerCRUD\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-16T08:30:26.128Z"
+              "WhenOpened": "2025-10-17T08:39:25.499Z"
             }
           ]
         }
